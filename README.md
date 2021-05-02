@@ -5,4 +5,4 @@ To deploy AWS ApiGateway which responds source ip address.
 * `npm install`
 * `cdk deploy`
 
-[description](https://figmentresearch.com/aws/apigateway-ipaddress)
+[description](https://note.figmentresearch.com/aws/apigateway-ipaddress)
